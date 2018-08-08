@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is DE72-F504
+
+ Directory of C:\Users\bala\Desktop\MyProject
+
+08/07/2018  11:22 PM    <DIR>          .
+08/07/2018  11:22 PM    <DIR>          ..
+08/07/2018  11:22 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  105,924,898,816 bytes free
